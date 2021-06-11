@@ -1,6 +1,30 @@
-.holi{
-    background-color:khaki;
-    height: 500px;
-    width: 800px;
-    margin-left: 200px;
+:root{
+    --colorbase:  #eaeded  ;
+    --colorbase2: #5dade2  ;
+    --colorbase3: #82e0aa ;
+    --colorbase4: #fad7a0 ;
+    --fuentetitulos: foont-size:15px;
+}
+body{
+    background-color: var(--colorbase);
+    font-family: 'Ubuntu', sans-serif;
+    font-size: var(--fuentetitulos);
+}
+.datos{
+    background-color: var(--colorbase2);
+    margin: 0px auto;
+}
+.content1{
+    background-color: var(--colorbase3);
+    text-align: right;
+    margin: 0px auto;
+}
+.menulat{
+    background-color: var(--colorbase2);
+    margin: 0px auto;
+}
+.carrito{
+    background-color: var(--colorbase4);
+    border-radius: 5px;
+    padding: 5px;
 }
