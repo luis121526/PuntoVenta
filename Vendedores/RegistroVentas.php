@@ -96,7 +96,8 @@
      Fugiat porro laboriosam incidunt distinctio, eaque repudiandae veritatis nesciunt illum dicta a neque 
     beatae recusandae delectus error accusamus doloremque minus, consectetur earum!</p>
     <div class="carrito col-4">
-        <h4 class="text-center">Carrito Actual</h4>
+        <h4 class="text-center">Venta Previa</h4>
+        <hr>
         <hr>
         
     </div>
