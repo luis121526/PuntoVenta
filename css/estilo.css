@@ -3,28 +3,24 @@
     --colorbase2: #5dade2  ;
     --colorbase3: #82e0aa ;
     --colorbase4: #fad7a0 ;
-    --fuentetitulos: foont-size:15px;
 }
 body{
-    background-color: var(--colorbase);
-    font-family: 'Ubuntu', sans-serif;
-    font-size: var(--fuentetitulos);
+    font-family: 'Mukta', sans-serif;
+    margin: 0px auto;
 }
-.datos{
+.empresa{
     background-color: var(--colorbase2);
     margin: 0px auto;
+    color: var(--colorbase);
 }
-.content1{
-    background-color: var(--colorbase3);
-    text-align: right;
-    margin: 0px auto;
-}
-.menulat{
+.empresa2{
     background-color: var(--colorbase2);
     margin: 0px auto;
+    color: var(--colorbase);
+text-align: right;
 }
-.carrito{
-    background-color: var(--colorbase4);
-    border-radius: 5px;
-    padding: 5px;
+.menu{
+    background-color: var(--colorbase2);
+    color: #fff;
+    margin: 0px;
 }
